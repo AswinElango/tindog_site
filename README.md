@@ -1,2 +1,1 @@
-# tindog_site
-Add a second website
+TinDog Starting Files
